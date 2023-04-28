@@ -8,7 +8,6 @@ Julianne Heine, Camryn Rogers , Ben Heick, Alexis Effenberger, Connor Hay
 
 Dataset: World Happiness Index 2013-2023
 
-What are the questions, and why each question is important. Importance can be evaluated and conveyed in a variety of ways including, social, economic, cultural and other factors. Also indicate how they are tied to the data set or sets being used.
 
 The questions we derived from our data set are the following:
 What is the year where the average world happiness index was the lowest?
@@ -17,7 +16,7 @@ What is the comparison in average happiness between Russia and Ukraine in the pa
 This is important in analyzing if there were any current events that year that would have decreased the happiness index, like the war between Russia and Ukraine and the support the countries received from others.
 
 	
-Describing your dataset and what data it contains: Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.
+Describing your dataset and what data it contains:
 
 We found our dataset on kaggle.com. There are 4 columns and 1524 rows of data. 
 
@@ -36,14 +35,10 @@ There were no manipulations or calculations performed on this data set. There we
 
 Analysis and Results:
 
-Analyze and visualize the results of your analysis and describe the implications of your analysis. Please provide any citations if required as well as supporting visualizations and analysis generated from Tableau
-
 Question 1
 
 2017 was the year with the lowest average world happiness index which could be due to many major events and factors from that year including multiple deadly hurricanes and earthquakes, many deadly mass shootings, environmental concerns, and major political tensions such as threats from North Korea and the global Women’s March taking place the day after Trump’s inauguration. There were also a series of terror attacks around the UK this year which would not only decrease the UK’s happiness but also of those in other countries constantly having to hear about this news. 
 
 Question 2
-
-
 
 According to the data, we found it interesting that as tensions have grown between Ukraine and Russia, their happiness ratings are getting closer together, with Russia’s average decreasing and Ukraine’s increasing. This could be because the war created a more unified nation in Ukraine to stand up to Russia. For Russia, their happiness could be decreasing because the people do not want to go to war, and also economic factors like their GDP per capita. Furthermore, in 2014, a war in Ukraine erupted because of Russia’s annexation of Crimea. Armed conflict broke out between the Ukrainian military and Russian-backed forces resulting in a decrease in Ukraine’s happiness rating. Between the years of 2017 and 2018, the United States became involved and imposed sanctions on Russia along with assisting with NATO’s presence in the region. Towards the end of 2018, the US assisted Ukraine by supplying them with lethal weaponry, helping the country overall, and boosting the happiness rating.  
